@@ -1,0 +1,8 @@
+{
+  "ConnectionStrings": {
+    "ConnectionStringsEcollama": "Data Source=DIEGO-NB\\SQLEXPRESS;Initial Catalog=Ecollama;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False"
+
+
+  }
+
+}
