@@ -1,0 +1,15 @@
+﻿@model Auth0_in_net.Models.UserDTO
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<p>Welcome to Auth0 y NET 6</p>
+@if (Model != null)
+{
+ <h1>Correo: @Model.EmailAddress</h1>   
+ <h1>Nombre: @Model.Name</h1> 
+ 
+ 
+ <a href="@Url.Action("Logout", "Account")">Salir</a>
+}

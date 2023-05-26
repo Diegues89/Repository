@@ -1,0 +1,10 @@
+{
+  "Auth0": {
+    "Domain": "login-dev.login-dev-gruposancorseguros.auth0app.com",
+    "ClientId": "2cmGVZJnxS0B6Ey9rcwSXX0xog2BmkPa",
+    "ClientSecret": "LiiqbBTwK5jB12zg2ZKIqclbBIZRBLsWrQODS9eTVV9hfNNwvqVeLYUdyh–zLL2",
+    "Connection": "adcon",
+    "CallbackPath": "/Login/ProcessCallback",
+    "ApiIdentifier": "https://login-dev.login-dev-gruposancorseguros.auth0app.com/api/v2/"
+  }
+}
